@@ -25,6 +25,10 @@ body {
   }
 }
 
+pre {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
 time {
   display: block;
   color: $color-subtext;
