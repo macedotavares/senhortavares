@@ -30,7 +30,7 @@
   #graph-wrapper {
     background: #fcfcfc;
     border-radius: 4px;
-    height: 10em;
+    height: 200px;
   }
 </style>
 
@@ -162,7 +162,7 @@
     const graphWrapper = document.getElementById('graph-wrapper')
     const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-    element.setAttribute("height", graphWrapper.getBoundingClientRect().width);
+    element.setAttribute("height", graphWrapper.getBoundingClientRect().height);
     graphWrapper.appendChild(element);
 
     const reportWindowSize = () => {
