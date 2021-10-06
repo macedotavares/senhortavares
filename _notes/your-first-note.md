@@ -2,7 +2,7 @@
 title: Your first seed
 ---
 
-A link to [[Consistency]].
+A link to [[Consistency]]. And [[Cats]].
 
 ### Welcome!
 
