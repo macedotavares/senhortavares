@@ -4,6 +4,6 @@ title: Graph
 permalink: /graph
 ---
 
-# The Whole General Sort of Mish Mash
+# The Whole Sort of General Mish Mash
 
 {% include notes_graph.html %}
