@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Graph
+id: graph
 permalink: /graph
 ---
 
